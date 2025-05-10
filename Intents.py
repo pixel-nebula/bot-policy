@@ -1,1 +1,1 @@
-print("Hello")
+print(os.environ.get("TOKEN"))
