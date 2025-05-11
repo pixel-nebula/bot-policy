@@ -1,0 +1,21 @@
+return {
+    [1] = {"Chat", "Communication System"},
+    [2] = {"Players", "Player Management"},
+    [3] = {"Head", "Head of Character"},
+    [4] = {"rbxassetid", "Roblox Asset ID"},
+    [5] = {"assetid", "Asset ID Reference"},
+    [6] = {"SystemCursors/PointingHand", "Standard Pointing Hand Cursor"},
+    [7] = {"ScreenGui", "Graphical User Interface"},
+    [8] = {"Frame", "UI Container"},
+    [9] = {"TextLabel", "Text Display Element"},
+    [10] = {"UIAspectRatioConstraint", "UI Aspect Ratio Constraint"},
+    [11] = {"UITextSizeConstraint", "Text Size Constraint for UI"},
+    [12] = {"UICorner", "Rounded Corners for UI Elements"},
+    [13] = {"UIStroke", "UI Element Border Stroke"},
+    [14] = {"GothamBold", "Font Style - Gotham Bold"},
+    [15] = {"Red", "Color Red"},
+    [16] = {"PlayerGui", "Player's Graphical User Interface"},
+    [17] = {"This service has been used unauthorizedly!", "Unauthorized Access Warning"},
+    [18] = {"rbxassetid://569021388", "Warning Icon Asset ID"},
+    [19] = {"://SystemCursors/PointingHand", "Pointing Hand Cursor URL"}
+}
